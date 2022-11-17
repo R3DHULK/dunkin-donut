@@ -23,11 +23,10 @@ python <run any software>
 #
 <h1><b> Output :</b></h1>
 
-![Alt text](Screenshot%20(34).png%0D)<br>
-![Alt text](Screenshot%20(35).png%0D) <br>
-![Alt text](Screenshot%20(36).png)<br>
-![Alt text](Screenshot%20(30).png%0D) <br>
-![Alt text](Screenshot%20(31).png%0D) <br>
-![Alt text](Screenshot%20(32).png%0D)<br> 
-![Alt text](Screenshot%20(33).png)<br>
-
+<img src="https://github.com/R3DHULK/dunkin-donut/blob/main/Screenshot%20(30).png?raw=true">
+<img src="https://github.com/R3DHULK/dunkin-donut/blob/main/Screenshot%20(31).png?raw=true">
+<img src="https://github.com/R3DHULK/dunkin-donut/blob/main/Screenshot%20(32).png?raw=true">
+<img src="https://github.com/R3DHULK/dunkin-donut/blob/main/Screenshot%20(33).png?raw=true">
+<img src="https://github.com/R3DHULK/dunkin-donut/blob/main/Screenshot%20(34).png?raw=true">
+<img src="https://github.com/R3DHULK/dunkin-donut/blob/main/Screenshot%20(35).png?raw=true">
+<img src="https://github.com/R3DHULK/dunkin-donut/blob/main/Screenshot%20(36).png?raw=true">
